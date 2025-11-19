@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6524ad2f-973d-4db5-a6b4-5538b2bce0dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CookieManager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+    <list default="true" id="6524ad2f-973d-4db5-a6b4-5538b2bce0dc" name="Changes" comment="Features: Used HTML and CSS from different assignment for time and consistency. I also found some open source html and js to form a cookie function, although I don't know how they work.">
+      <change beforePath="$PROJECT_DIR$/CookieManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/CookieManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "or84-cloud"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/or84-cloud/A10.git",
+    "accountId": "c2ca0bae-2c07-4674-ade7-9066ddad1462"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -72,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763500095458</updated>
-      <workItem from="1763500096679" duration="2919000" />
+      <workItem from="1763500096679" duration="2958000" />
     </task>
     <servers />
   </component>
